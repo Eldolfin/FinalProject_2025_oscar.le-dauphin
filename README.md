@@ -26,11 +26,12 @@ used for validation and evaluation.
 
 ## Scores
 
-```js
-Root mean squared error      = 1.31
-Coefficient of determination = 0.0685
-Explained variance           = 0.154
-```
+| Metric                        | Value   |
+|------------------------------|---------|
+| Root mean squared error      | 1.31    |
+| Coefficient of determination | 0.0685  |
+| Explained variance           | 0.154   |
+
 
 The recommender system is showing promising signs of learning meaningful
 user-item interactions. The RMSE of 1.31 suggests the model is reasonably
