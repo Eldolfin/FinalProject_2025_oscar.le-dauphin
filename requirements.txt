@@ -73,6 +73,7 @@ psutil==7.0.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
 py4j==0.10.9.7
+pyarrow==20.0.0
 pycparser==2.22
 Pygments==2.19.1
 pyparsing==3.2.1
